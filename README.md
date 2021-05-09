@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeoaspereirasilva
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning ... HTML,CSS,JavaScript,C language
+- 🌱 I’m currently learning ... HTML,CSS,JavaScrip
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
